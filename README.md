@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jeffin Siby, an aspiring Software/ML Engineer!
+
+- I'm a first class **BSc Computer Science** with Honours graduate from **Durham University**.
+- Pursuing my passion for artificial intelligence, I will be completing an **MSc in Artificial Intelligence and Machine Learning** at the **University of Birmingham** from 2023 - 2024.
+
+🔭 I am actively looking for graduate/entry level roles in the UK starting in 2024.
 
 <!--
 **JeffinSiby/JeffinSiby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
