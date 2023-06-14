@@ -16,6 +16,16 @@
     <img src="https://img.icons8.com/color/96/000000/ibm.png" width="10%"/>
 </p>
 
+## Educational achievements
+### University of Birmingham - MSc Artifical Intelligence and Machine Learning (2023-current)
+- Received the Birmingham Masters scholarship
+
+### Durham University - BSc Computer Science (2019-2023)
+- Received a 1st class degree.
+- Received an 'Outstanding Achievement' award in 1st year for attaining a grade higher than 85%.
+- Received the Coleman Scholarship for Computer Science
+
+
 
 <!--
 **JeffinSiby/JeffinSiby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
