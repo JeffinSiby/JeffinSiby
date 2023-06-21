@@ -21,7 +21,11 @@
 - Received the Birmingham Masters scholarship
 
 ### Durham University - BSc Computer Science (2019-2023)
-- Received a 1st class degree.
+- Received a 1st class degree (averaged at 80%).
+    - 1st year: 86%
+    - 2nd year: 78%
+    - 3rd year: Placement (100%)
+    - 4th year: 81%
 - Received an 'Outstanding Achievement' award in 1st year for attaining a grade higher than 85%.
 - Received the Coleman Scholarship for Computer Science
 
